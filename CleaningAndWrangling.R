@@ -1,5 +1,4 @@
 #Packages
-library(readxl) #to open a excel document
 library(lattice) #to plot component loadings in PCA
 library(ggplot2) #for visualization
 library(scales) #for visualization
